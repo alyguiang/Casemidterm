@@ -22,14 +22,6 @@ public class Two {
         System.out.println(fmla.perimeterOfRectangle(10.0,9.0));
         System.out.println(fmla.perimeterOfParallelogram(4.0,6.5));
          //end
-         
-         //Made by Kim
-         //start
-         System.out.println(fmla.volumeOfCone(15.0,12.0));
-         System.out.println(fmla.volumeOfSphere(10.0));
-         System.out.println(fmla.volumeOfCylinder(5.2,6.8));
-         System.out.println(fmla.volumeOfBox(5.0,4.5,3.0));
-          //end
     }
 }
 package two;
