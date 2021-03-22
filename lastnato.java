@@ -1,4 +1,4 @@
-package two;
+package lastnato;
 
 public class Two {
 
